@@ -1,5 +1,5 @@
-## Scheduler With Database written in Java
-# Student Management System
+# Scheduler With Database written in Java
+## Student Management System
 This Java project features a graphical user interface (GUI) that allows users to create and manage student records, class schedules, and semesters. Key functionalities include:
 
 Create and Remove Students: Add new students and delete existing ones.
